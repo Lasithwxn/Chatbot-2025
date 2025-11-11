@@ -14,3 +14,5 @@ Perfect for beginners who want to learn how to take user input, process it, and 
 ---
 
 ## 💻 Example
+<img width="968" height="414" alt="image" src="https://github.com/user-attachments/assets/b30b9cf1-6787-42aa-958a-a3d200e84dfb" />
+
